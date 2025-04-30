@@ -1,0 +1,13 @@
+{
+    "type": "code",
+    "modid": "safecracker",
+    "name": "SafeCracker",
+    "authors": [
+        "Maxilos33, FlexibleGames"
+    ],
+    "description": "Increases bomb damage to reinforced blocks",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": ""
+    }
+}
