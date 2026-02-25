@@ -2,3 +2,4 @@ This simple mod removes a random, configurable amount of reinforcement from bloc
 Intended to be used with Thievery, by Chronolegionaire with "ReinforcedBuildingBlocks" and "ReinforceAllBlocks" both set to true.
 
 Use on servers at your discretion as it opens plenty ways of griefing reinforced blocks.
+Many thanks to ThePiekar for his help and expertise () 
